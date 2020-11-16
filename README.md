@@ -1,7 +1,7 @@
 ### HELP DESK APP
 Nama : Ramadhan Qoridhatul Alfarizi <br>
 NIM : 180441100098 <br>
-IPPL <br>
+IPPL kelas D <br>
 Dosen : KURNIAWAN EKA PERMANA, S.Kom., M.Sc <br>
 
 ### Cara Install & Setup
